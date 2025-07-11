@@ -2,7 +2,7 @@
 
 This repository contains my solutions for the final home exam in the course **PGR107 - Python Programming** at Kristiania University College, completed in April 2025.
 
-📄 You can view the official exam assignment here:  
+You can view the official exam assignment here:  
 [PGR107_Final Exam (April 2025).pdf](./PGR107_Final%20Exam%20(April%202025).pdf)
 
 ---
